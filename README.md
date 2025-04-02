@@ -32,7 +32,6 @@ TurtleWoW/
 - Dragonflight Minimap
 - Dragonflight ActionBars
 - Dragonflight Unitframes
-- Dragonflight Castbar & Timer
 - Dragonflight Bags
 - Dragonflight MicroMenu
 - Dragonflight Latency Bar
