@@ -1,4 +1,4 @@
-# 🐢 🐉 tDF (Turtle Dragonflight)
+# 🐢 🐉 tDF (Turtle Dragonflight) - CASTBAR REMOVED!
 ![GitHub Release](https://img.shields.io/github/v/release/TheLinuxITGuy/Turtle-Dragonflight?style=for-the-badge&labelColor=%231A365D&color=%23E9FC12)
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/TheLinuxITGuy/Turtle-Dragonflight/total?style=for-the-badge&labelColor=%231A365D&color=%23E9FC12)
 ![Static Badge](https://img.shields.io/badge/1.17.2-blue?style=for-the-badge&label=supported%20twow%20ver&labelColor=%231A365D&color=%23E9FC12)
